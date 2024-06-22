@@ -84,4 +84,3 @@ jobs:
         run: |
           echo "one of the job went wrong"
           echo "${{ toJSON(github) }}"
-
